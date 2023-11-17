@@ -1,5 +1,6 @@
 "use client"
 import CountButt from "./CountButt";
+import SearchBar from "./SearchBar"
 
 export default function Page() {
     return (
@@ -9,7 +10,8 @@ export default function Page() {
             <hr />
             <a href="https://github.com/SSparky20/nextjs">This is GitHub</a>
             <hr />
-            <p>search bar</p>
+            <SearchBar />
         </div>
+        
     );
 }
