@@ -1,7 +1,7 @@
 {
-  "name": "nextjs",
+  "name": "app",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "layout.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -16,6 +16,5 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "devDependencies": {},
   "description": ""
 }
